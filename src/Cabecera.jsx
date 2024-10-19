@@ -3,7 +3,7 @@ import { Boton } from "./Boton";
 export function Cabecera() {
   return (<nav className="cabecera" id="inicio">
     <div className="cabecera__logo">
-      <img src="/logo-felev.webp" alt="Felev logotipo empresarial" />
+      <img src="logo-felev.webp" alt="Felev logotipo empresarial" />
     </div>
 
     <ul className="cabecera__menu">

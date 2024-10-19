@@ -14,7 +14,7 @@ export function Hero() {
     </div>
 
     <div className="hero__imagen">
-      <img src="/hero-image.png" alt="Desarrollo de aplicaciones de tecnología" />
+      <img src="hero-image.png" alt="Desarrollo de aplicaciones de tecnología" />
     </div>
   </section>);
 }
